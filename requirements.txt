@@ -18,3 +18,5 @@ plotly
 
 # Machine learning ----------------------------
 sklearn
+
+pmdarima
